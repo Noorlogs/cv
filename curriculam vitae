@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>My Cv</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <h1>curriculum vitae</h1>
+        <table width="100%"  cellpadding="10" cellspacing="1" align="center" >
+            <tr>
+                <td>
+                    <img src="https://media.licdn.com/dms/image/D4D35AQFDFTIoig0wXA/profile-framedphoto-shrink_200_200/0/1662494992812?e=1677520800&v=beta&t=Y288r43Kr-v_uYwp4PUgvlErJ5F-k9KgY4aoCDBOTEA" alt="Mahnoor's display picture" width="150" height="150"  >
+                
+                </td>
+        
+                <td colspan="2" > <h1>Mahnoor Abbasi</h1>
+                    <i>Web Developer</i>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque laborum, similique magni, eligendi aspernatur dolor assumenda ab voluptatibus ducimus exercitationem repellendus nobis eos atque sed minima eum adipisci! Quod, temporibus.</p>
+                </td>
+                
+               
+            </tr>
+            <tr>
+                <td>Objective</td>
+                <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laborum beatae neque voluptatem illo accusamus similique dolor tenetur impedit eius.</td>            </tr>
+            <tr>
+                <td>Education</td>
+                <td>  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, quo.</td>
+            </tr>
+            <tr>
+                <td>Skills</td>
+                <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quos soluta officia ipsam aliquam hic.</td>
+            </tr>
+            <tr>
+                <td>Contact</td>
+                <td>Lorem ipsum dolor sit amet.</td>
+            </tr>
+
+        </table>
+    </body>
+</html>
