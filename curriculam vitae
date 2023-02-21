@@ -6,40 +6,72 @@
         <title>My Cv</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+        
     </head>
     <body>
-        <h1>curriculum vitae</h1>
-        <table width="100%"  cellpadding="10" cellspacing="1" align="center" >
+        
+        <h1><u>Curriculum Vitae</u></h1><hr>
+        
+        <table width="100%"  cellpadding="10" cellspacing="1"  >
             <tr>
                 <td>
-                    <img src="https://media.licdn.com/dms/image/D4D35AQFDFTIoig0wXA/profile-framedphoto-shrink_200_200/0/1662494992812?e=1677520800&v=beta&t=Y288r43Kr-v_uYwp4PUgvlErJ5F-k9KgY4aoCDBOTEA" alt="Mahnoor's display picture" width="150" height="150"  >
-                
+                    <img src="https://media.licdn.com/dms/image/D4D35AQFDFTIoig0wXA/profile-framedphoto-shrink_200_200/0/1662494992812?e=1677520800&v=beta&t=Y288r43Kr-v_uYwp4PUgvlErJ5F-k9KgY4aoCDBOTEA" alt="Mahnoor's display picture" width="120" height="120"  >
+
                 </td>
-        
-                <td colspan="2" > <h1>Mahnoor Abbasi</h1>
+
+                <td colspan="2" > <h2>
+                    <u> <b>Mahnoor Abbasi</b></u>
+                    </h2>
                     <i>Web Developer</i>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque laborum, similique magni, eligendi aspernatur dolor assumenda ab voluptatibus ducimus exercitationem repellendus nobis eos atque sed minima eum adipisci! Quod, temporibus.</p>
+                
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque laborum, similique magni, eligendi aspernatur dolor assumenda ab voluptatibus <br> ducimus exercitationem repellendus nobis eos atque sed minima eum adipisci! Quod, temporibus.</p>
+                <hr>
                 </td>
                 
-               
+
             </tr>
+
             <tr>
-                <td>Objective</td>
+                
+                <td><b>Objective:</b></td>
                 <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laborum beatae neque voluptatem illo accusamus similique dolor tenetur impedit eius.</td>            </tr>
             <tr>
-                <td>Education</td>
-                <td>  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, quo.</td>
+                <td><b>Education:</b></td>
+                <td>
+                    <b>High School</b><br>
+                    <i>2016-2018</i> <br> 
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, quo.
+                    <br><br>
+                    <b>College</b><br>
+                    <i>2018-2020</i> <br> 
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, quo.
+                    <br><br>
+                    <b>University</b><br> 
+                    <i>2020- Present</i> <br>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, quo.
+                </td>
             </tr>
             <tr>
-                <td>Skills</td>
-                <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quos soluta officia ipsam aliquam hic.</td>
+                <td><b>Skills:</b></td>
+                <td>
+                    -Lorem ipsum dolor <br>
+                    -sit amet consectetur <br>
+                    -adipisicing elit <br>
+                    -Nesciunt quos soluta <br>
+                    -officia ipsam aliquam hic <br>
+                </td>
             </tr>
             <tr>
-                <td>Contact</td>
-                <td>Lorem ipsum dolor sit amet.</td>
+                <td><b>Contact:</b></td>
+                <td>
+                    Lorem ipsum dolor sit amet. <br>
+                    +92300-000000-0 <br>
+                    noorscode@gmail.com
+
+                </td>
             </tr>
 
         </table>
+        <hr>
     </body>
 </html>
